@@ -6,6 +6,6 @@
 #### Breve descripción de la propuesta:
 Galería de fotos de meriendas y bruchs que recomienndo en la ciudad de Buenos Aires y que fueron sacadas con cámara de fotos y celular. 
 #### Objetivo de la galería
-Mostrar y recomendar distintos lugares para ir a comer y compartir un lindo momento. Además de propuestas de ideas de comnidas.
+Mostrar y recomendar distintos lugares para ir a comer y compartir un lindo momento. Además de propuestas de ideas de comidas.
 #### Una breve descripción de los contenidos que tendrá
 Distintas fotografías de cafés, tostados, entre otras comidas de la media tarde, para desayunar o para tener un bruch.
