@@ -35,9 +35,10 @@ body {
     height: 1.5em;
     vertical-align: middle;
     margin-right: 0.5rem;
-    background-color: white;
-    padding: 0.5rem 0.75rem;
-    border-radius: 99rem;
+    filter: drop-shadow(1.5px 0 0 white)
+            drop-shadow(-1.5px 0 0 white)
+            drop-shadow(0 1.5px 0 white)
+            drop-shadow(0 -1.5px 0 white);
 }
 h1 {
     margin: 0;
@@ -70,18 +71,22 @@ section {
 }
 
 .presentacion {
+    display: flex;
+    justify-content: space-between;
     margin-bottom: 35px;
 }
 
 .presentacion div {
-    display: inline-block;
+    display: flex;
     width: 52%;
     vertical-align: middle;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .presentacion img {
     width: 40%;
-    max-height: 350px;
+    max-height: 80vh;
     object-fit: cover;
     border-radius: 12px;
     vertical-align: middle;
@@ -183,6 +188,13 @@ footer {
     .detalle img {
         width: 100%;
         margin-left: 0;
+    }
+    .presentacion img {
+        max-height: 30vh;
+    }
+
+    .presentacion, .detalle{
+        flex-direction: column-reverse;
     }
 
     .tarjeta {
