@@ -32,7 +32,7 @@ Los nombres siguen el formato:
 
 ## Decisiones de diseño
 
-Para el sitio elegí una paleta de colores relacionada con las cafeterías: marrón para representar el café, verde para acompañar la idea de patio y plantas, y un naranja suave para destacar detalles cálidos de la merienda.
+Para el sitio elegí una paleta de colores relacionada con las cafeterías: marrón para representar el café, verde para acompañar la idea de meriendas con ingredientes de la naturaleza como el pistacho, la palta que es lo que mayormente se repite. Además, un color crema suave para los fondos y  asociarlo a los colores cálidos de la merienda como son la leche, la crema, entre otros.
 
 La tipografía utilizada es "Poppins", una fuente simple y fácil de leer pero a la vez cálido y amigable, lo que representan las meriendas desde mi perspectiva.
 
